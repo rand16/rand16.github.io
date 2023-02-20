@@ -1,5 +1,8 @@
 body {
-    text-align: center;
     background-color: dimgray;
     color: cornsilk;
+}
+
+h1 {
+    text-align: center;
 }
